@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Jeijesh! 👋
 
-<!--
-**Jeijesh69/Jeijesh69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile Views](https://komarev.com/ghpvc/?username=Jeijesh&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Jeijesh)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate **developer** working on exciting projects, from **game development** to **software engineering**. I love exploring new technologies and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-00589C?style=for-the-badge&logo=prolog&logoColor=white)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeijesh&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeijesh&theme=radical" width="48%" />
+</p>
+
+## 🌱 Currently Learning
+- Advanced AI & ML 🤖
+- Full Stack Development 🏗️
+- Game Development with Unity 🎮
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+---
+⭐️ *Inspired by awesome developers around the world!*
