@@ -1,6 +1,6 @@
 # Hi there, I'm Jeijesh! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jeijesh&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Jeijesh)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jeijesh69&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Jeijesh69)
 
 ## 🚀 About Me
 I'm a passionate **developer** working on exciting projects, from **game development** to **network engineering**. I love exploring new technologies and building innovative solutions.
