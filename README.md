@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Jeijesh&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Jeijesh)
 
 ## 🚀 About Me
-I'm a passionate **developer** working on exciting projects, from **game development** to **software engineering**. I love exploring new technologies and building innovative solutions.
+I'm a passionate **developer** working on exciting projects, from **game development** to **network engineering**. I love exploring new technologies and building innovative solutions.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
