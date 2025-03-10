@@ -18,13 +18,10 @@ I'm a passionate **developer** working on exciting projects, from **game develop
 </p>
 
 ## 🌱 Currently Learning
-- Advanced AI & ML 🤖
-- Full Stack Development 🏗️
-- Game Development with Unity 🎮
+- Network Engineering 🤖
+- Game Development 🎮
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-
 ---
 ⭐️ *Inspired by awesome developers around the world!*
