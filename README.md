@@ -20,8 +20,10 @@ I'm a passionate **developer** working on exciting projects, from **game develop
 
 ## 🌱 Currently Learning
 - Network Engineering 🤖
+  
   I have hands-on experience with cloud services like AWS and have worked on system automation using Kubernetes. I also use tools like Grafana for monitoring and observability.
 - Game Development 🎮
+  
   I was part of a national-level game development competition where my team won first place. My role focused on game art, specifically creating 3D models using Blender.
 
 ## 📫 Connect With Me
