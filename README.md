@@ -19,7 +19,9 @@ I'm a passionate **developer** working on exciting projects, from **game develop
 </p>
 
 ## 📊 Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeijesh69&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeijesh69&layout=compact&theme=radical" />
+</p>
 
 ## 🌱 Currently Learning
 - Network Engineering 🤖
