@@ -18,6 +18,9 @@ I'm a passionate **developer** working on exciting projects, from **game develop
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeijesh69&theme=radical" width="48%" />
 </p>
 
+## 📊 Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeijesh69&layout=compact&theme=radical)
+
 ## 🌱 Currently Learning
 - Network Engineering 🤖
   
