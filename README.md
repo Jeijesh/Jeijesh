@@ -36,8 +36,8 @@
   Hands-on with **AWS**, **Kubernetes**, and **Grafana** for monitoring & observability.  
 
 - **Game Development** 🎮  
-  🏆 Competed in a **national-level game dev competition**, securing **2nd place**.  
-  Specialized in **game art & 3D modeling** with **Blender**.  
+  🏆 Secured 2nd place at the 4C National Game Development Competition and 3rd place at Hology.
+  Specialized in game programming, game art, and 3D modeling using Blender, Procreate, and Unity.
 
 ---
 
