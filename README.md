@@ -1,6 +1,6 @@
 # Hi there, I'm Jeijesh! 👋  
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jeijesh69&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Jeijesh69)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jeijesh&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Jeijesh)
 
 ---
 
@@ -25,8 +25,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jeijesh&show_icons=true&theme=radical&hide_border=true&line_height=25" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeijesh&layout=compact&theme=radical&hide_border=true" width="37%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeijesh&theme=radical" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeijesh&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Jeijesh&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -36,7 +40,7 @@
   Hands-on with **AWS**, **Kubernetes**, and **Grafana** for monitoring & observability.  
 
 - **Game Development** 🎮  
-  🏆 Secured 2nd place at the 4C National Game Development Competition and 3rd place at Hology.
+  🏆 Secured 2nd place at the 4C National Game Development Competition and 3rd place at Hology.  
   Specialized in game programming, game art, and 3D modeling using Blender, Procreate, and Unity.
 
 ---
@@ -50,4 +54,4 @@
 
 ---
 
-⭐️ *Inspired by awesome developers around the world!* 
+⭐️ *Inspired by awesome developers around the world!*
