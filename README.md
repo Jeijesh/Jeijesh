@@ -1,6 +1,6 @@
 # Hi there, I'm Jeijesh! 👋  
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jeijesh&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Jeijesh)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Jeijesh/visits)
 
 ---
 
